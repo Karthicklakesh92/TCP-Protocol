@@ -1,0 +1,34 @@
+D:\C# Test Application\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.exe
+D:\C# Test Application\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.pdb
+D:\C# Test Application\Tcp sever program\Tcp sever program\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Test Application\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Form1.resources
+D:\C# Test Application\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Properties.Resources.resources
+D:\C# Test Application\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.csproj.GenerateResource.Cache
+D:\C# Test Application\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.exe
+D:\C# Test Application\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.pdb
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.exe
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.pdb
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.exe
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.pdb
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Properties.Resources.resources
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.csproj.GenerateResource.Cache
+D:\C# Test Application\TCP Protocol Communication learning\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Main.resources
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.exe
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.pdb
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.exe
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.pdb
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\obj\Debug\ResolveAssemblyReference.cache
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Main.resources
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Properties.Resources.resources
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.csproj.GenerateResource.Cache
+D:\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.exe
+D:\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.pdb
+D:\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.exe
+D:\Tcp sever program\Tcp sever program\bin\Debug\Tcp sever program.pdb
+D:\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Main.resources
+D:\Tcp sever program\Tcp sever program\obj\Debug\Tcp_sever_program.Properties.Resources.resources
+D:\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.csproj.GenerateResource.Cache
+D:\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.csprojResolveAssemblyReference.cache
+D:\tcp\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.exe
+D:\tcp\Tcp sever program\Tcp sever program\obj\Debug\Tcp sever program.pdb

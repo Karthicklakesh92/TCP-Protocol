@@ -1,0 +1,39 @@
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Form1.resources
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Properties.Resources.resources
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.csproj.GenerateResource.Cache
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.exe
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.pdb
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.exe
+D:\C# Test Application\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.pdb
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.exe
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.pdb
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Properties.Resources.resources
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.csproj.GenerateResource.Cache
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.exe
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.pdb
+D:\C# Test Application\TCP Protocol Communication learning\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Main.resources
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.exe
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.pdb
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.exe
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.pdb
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\ResolveAssemblyReference.cache
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Main.resources
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Properties.Resources.resources
+D:\Software Language\C# Test Application\TCP Protocol Communications\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.csproj.GenerateResource.Cache
+D:\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.exe
+D:\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.pdb
+D:\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.exe
+D:\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.pdb
+D:\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Main.resources
+D:\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Properties.Resources.resources
+D:\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.csproj.GenerateResource.Cache
+D:\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.csprojResolveAssemblyReference.cache
+F:\TCP\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.exe
+F:\TCP\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.pdb
+F:\TCP\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.exe
+F:\TCP\Tcp Clinent Program\Tcp Clinent Program\bin\Debug\Tcp Clinent Program.pdb
+F:\TCP\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Main.resources
+F:\TCP\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp_Clinent_Program.Properties.Resources.resources
+F:\TCP\Tcp Clinent Program\Tcp Clinent Program\obj\Debug\Tcp Clinent Program.csproj.GenerateResource.Cache
